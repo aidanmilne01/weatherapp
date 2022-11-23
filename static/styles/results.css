@@ -1,0 +1,17 @@
+#weatherResults {
+    background-color: #ff4269;
+    font-family: 'Lato', sans-serif;
+    font-size: 36px;
+    padding: 30px;
+    display: inline-block;
+    text-align: center;
+    margin: 30px;
+    border-radius: 13px;
+}
+
+#wicon {
+    width: 175px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
